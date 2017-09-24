@@ -1,0 +1,33 @@
+Bronnen FishCatcher
+gemaakt door:
+Dibran Dokter & Marnix Lukasse
+
+Bij het gebruik van mediabestanden,
+moet je aangeven waar deze vandaan komen
+(vooral bij degene die je niet zelf hebt
+gemaakt).
+
+Afgeleid van de DOS game Bluppo.
+demoversie bij het internet archive:
+https://archive.org/details/msdos_Bluppo_1997
+site van de maker:
+http://www.tomaskovic.com/bluppo.html
+site van de publisher:
+http://www.webfootgames.com/info.php
+
+FishCatcher.mp3				-> http://soundimage.org/fantasywonder/ Eric Matyas - Puzzle Game
+playerCharacter.png			-> Zelfgemaakt
+waterAchtergrond.jpg		-> https://wallpapersafari.com/w/B1tk6e
+waterAchtergrondResized.jpg	-> waterAchtergrond maar dan kleiner
+Bal.jpg						-> Sprite uit de bluppo game.
+BewegendeVisAnimatie.jpg	-> Sprite uit de bluppo game.
+Block.jpg					-> Sprite uit de bluppo game.
+Block2.jpg					-> Sprite uit de bluppo game.
+Exit_Standaard.jpg			-> Sprite uit de bluppo game.
+Exit_Toegankelijk.jpg		-> Sprite uit de bluppo game.
+Houtblok.png				-> Sprite uit de bluppo game.
+KleefVisAnimatie.jpg		-> Sprite uit de bluppo game.
+MonsterVisAnimatie.jpg		-> Sprite uit de bluppo game.
+StandaardVis.jpg			-> Sprite uit de bluppo game.
+Weed.jpg					-> Sprite uit de bluppo game.
+ZuurstofFles.png			-> Sprite uit de bluppo game.
